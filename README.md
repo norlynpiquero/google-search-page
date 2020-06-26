@@ -1,2 +1,2 @@
 # Google Search Page
-One of The Odin Project I have completed
+This is the desktop version of Google's Search Result Page
